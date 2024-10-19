@@ -1,3 +1,5 @@
+# TESTING LIGHT RAG VS GRAPH RAG ON OWN KNOWLEDGE BASE
+
 <center><h2>🚀 LightRAG: Simple and Fast Retrieval-Augmented Generation</h2></center>
 
 
